@@ -1,3 +1,5 @@
+![jessica-ruscello-OQSCtabGkSY-unsplash](https://github.com/sarahprusaitis/Library_Inventory_Management/assets/146799617/d996ea72-bb9a-4f2b-bf32-16131986d268)
+
 # Library Inventory Management Analysis
 
 ## Overview
