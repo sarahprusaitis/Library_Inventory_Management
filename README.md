@@ -13,7 +13,8 @@ The primary objective of this project is to assist the Seattle Public Library in
 The dataset provided by The Seattle Public Library comprises 5.21 million rows and 12 columns, documenting the checkout records of both physical and electronic items over the years 2022 and 2023. Each row represents the number of checkouts for a specific title in a given month of the year. With this rich dataset, the project endeavors to understand the borrowing patterns of library users and identify key factors influencing the demand for books in both formats.
 
 ## Exploratory Data Analysis
-insert images here of EDA, working on Tableau
+<img width="1274" alt="AuthorsByCheckout" src="https://github.com/sarahprusaitis/Library_Inventory_Management/assets/146799617/d8596fcb-6388-4c64-8de3-bf90cbe7bb0b">
+<img width="1274" alt="TitlesByCheckout" src="https://github.com/sarahprusaitis/Library_Inventory_Management/assets/146799617/7be426fb-7431-432e-92ee-503e2710f483">
 
 ## Preprocessing
 The dataset was filtered to include on physical books and digital books (eBooks). The 'CheckoutYear' and 'CheckoutMonth' columns were combined into a datetime column, and unnecessary columns were dropped. Additionally any rows where the author was missing was dropped as it was not a substantial number. Standardization of author names in the 'Creator' column was performed followed by the cleaning of the 'Title' column by removing redundent phrases and punctuatio. This was all done to ensure consistency and cleanliness of the data for subsequent EDA and modeling. 
