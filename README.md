@@ -28,9 +28,15 @@ In this project, I explored various time series forecasting models to assist the
 
 Based on these findings, I recommend the Seattle Public Library adopt the Prophet model for its predictive analytics needs. The Prophet model's superior performance in terms of lower error metrics suggests it is more effective in capturing demand patterns and trends in the library's checkout data. By implementing this model, the library can gain valuable insights into patron preferences, enabling more accurate anticipation of future demand. This will facilitate better resource allocation for both physical and digital collections, ultimately enhancing the efficiency of inventory management and ensuring the library meets the needs of its patrons effectively.
 
+## Business Recommendations
+- Expand digital library services as ebooks are becoming more popular with readers
+- Incorporate flexible purchasing strategies based off of high demand titles
+- Promote new arrivals and popular titles 
 
 ## Future Steps
-User feedback incorporation, to validate and help refine the predictive models. 
+- Incorporate patron feedback, conduct surveys and focus groups to see what readers are wanting 
+- Explore partnerships with other libraries and educational institutions
+- Run models on current data from 2024 to capture recent trends
 
 ## Tableau Dashboard:
 https://public.tableau.com/views/LiteraryInsights/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link 
