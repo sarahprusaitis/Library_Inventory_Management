@@ -15,6 +15,10 @@ The dataset provided by The Seattle Public Library comprises 5.21 million rows a
 ## Exploratory Data Analysis
 <img width="1274" alt="AuthorsByCheckout" src="https://github.com/sarahprusaitis/Library_Inventory_Management/assets/146799617/d8596fcb-6388-4c64-8de3-bf90cbe7bb0b">
 <img width="1274" alt="TitlesByCheckout" src="https://github.com/sarahprusaitis/Library_Inventory_Management/assets/146799617/7be426fb-7431-432e-92ee-503e2710f483">
+<img width="1274" alt="PhysicalVsDigital" src="https://github.com/sarahprusaitis/Library_Inventory_Management/assets/146799617/761030d6-aca4-4f6c-a687-9bea6d92ddcb">
+<img width="773" alt="MonthlyCheckouts" src="https://github.com/sarahprusaitis/Library_Inventory_Management/assets/146799617/7d3caae8-c30f-403f-97d5-8f7187649f06">
+
+
 
 ## Preprocessing
 The dataset was filtered to include on physical books and digital books (eBooks). The 'CheckoutYear' and 'CheckoutMonth' columns were combined into a datetime column, and unnecessary columns were dropped. Additionally any rows where the author was missing was dropped as it was not a substantial number. Standardization of author names in the 'Creator' column was performed followed by the cleaning of the 'Title' column by removing redundent phrases and punctuatio. This was all done to ensure consistency and cleanliness of the data for subsequent EDA and modeling. 
