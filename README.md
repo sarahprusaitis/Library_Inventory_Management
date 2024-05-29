@@ -32,6 +32,9 @@ Based on these findings, I recommend the Seattle Public Library adopt the Prophe
 ## Future Steps
 User feedback incorporation, to validate and help refine the predictive models. 
 
+## Tableau Dashboard:
+https://public.tableau.com/views/LiteraryInsights/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link 
+
 ## Sources:
 [data.seattle.gov/Community/Checkouts-by-Title-2022-2023/yw4z-3dsr/about_data 
 ](https://data.seattle.gov/Community/Checkouts-by-Title-2022-2023/yw4z-3dsr/about_data)
